@@ -33,4 +33,3 @@ for t in s:
 		thymine = thymine + 1
 
 print str(adenine) + ' ' + str(cytosine) + ' ' + str(guanine) + ' ' + str(thymine)
-
